@@ -4,6 +4,8 @@ Welcome! This Github site hosts code and software packages developed by Robinson
 
 For more information about our organization, our work, and our research intiatives, check out our [website](www.rde.us).
 
+![RDE_MAIN_LOGO_JPEG-best](https://github.com/user-attachments/assets/516baeca-3a1f-4c25-9d6a-ce39eff5ea3c)
+
 ## Robinson Design Engineers
 Robinson Design Engineers (RDE) is an award-winning team of hydrologists and engineers engaged in thoughtful, creative problem-solving and design for land, water, and ecology.
 
