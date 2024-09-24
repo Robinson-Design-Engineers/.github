@@ -12,10 +12,8 @@ For more information about our organization, our work, and our research intiativ
 <br />
 Robinson Design Engineers (RDE) is an award-winning team of hydrologists and engineers engaged in thoughtful, creative problem-solving and design for land, water, and ecology.
 
-<br />
-We offer specialized engineering design expertise for projects such as urban creek restoration, living shorelines, stream bank stabilization, green roof hydrology, salt marsh restoration, low-tech stream & wetland restoration, mitigation banking, and dam removal. As experts in the field of Environmental Hydrology, we also conduct field-based studies and numerical analyses for challenging problems associated with compound flooding, sediment management, hydraulic structures, watershed planning, and hydrodynamics of natural systems.
+<br /> We offer specialized engineering design expertise for projects such as urban creek restoration, living shorelines, stream bank stabilization, green roof hydrology, salt marsh restoration, low-tech stream & wetland restoration, mitigation banking, and dam removal. As experts in the field of Environmental Hydrology, we also conduct field-based studies and numerical analyses for challenging problems associated with compound flooding, sediment management, hydraulic structures, watershed planning, and hydrodynamics of natural systems.
 
-<br />
 We specialize in nature-based engineering to water management issues, including:
 - Aquatic Ecosystem Restoration
 - Stormwater Management
